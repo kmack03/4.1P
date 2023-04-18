@@ -4,7 +4,6 @@
     android:layout_height="match_parent"
     android:background="#2196F3">
 
-    <!-- Edit Text Inputs -->
     <EditText
         android:id="@+id/workout_length_input"
         android:layout_width="wrap_content"
@@ -43,7 +42,6 @@
         android:textColor="#FFFFFF"
         android:textSize="24sp" />
 
-    <!-- Start and Pause Buttons -->
     <Button
         android:id="@+id/start_button"
         android:layout_width="wrap_content"
@@ -55,7 +53,6 @@
         android:text="Start"
         android:textColor="#FFFFFF" />
 
-    <!-- Text Display -->
     <TextView
         android:id="@+id/text_display"
         android:layout_width="wrap_content"
